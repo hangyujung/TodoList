@@ -34,6 +34,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 #삭제
 
-![image](https://user-images.githubusercontent.com/52170581/120170942-7152a500-c23c-11eb-8c71-501eaac8e1e9.png)
+![ezgif-7-f8ed1d0de8b0 (1)](https://user-images.githubusercontent.com/52170581/120171076-98a97200-c23c-11eb-9b9b-9540d0b20b8f.gif)
+https://user-images.githubusercontent.com/52170581/120171043-90e9cd80-c23c-11eb-82cc-44b7ca8af7b8.mp4
+
+
 
 
