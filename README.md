@@ -23,7 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-#메인
+<!-- #메인
 
 ![image](https://user-images.githubusercontent.com/52170581/120170794-4cf6c880-c23c-11eb-8e9c-0854045fa026.png)
 
@@ -37,5 +37,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   ![ezgif-7-f8ed1d0de8b0 (1)](https://user-images.githubusercontent.com/52170581/120171076-98a97200-c23c-11eb-9b9b-9540d0b20b8f.gif)
 
 
-
+ -->
 
